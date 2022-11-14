@@ -1,0 +1,291 @@
+{
+    "nav-t-1":"Əsas Səhifə",
+    "nav-t-2":"MAĞAZA",
+    "nav-t-3":"Haqqımızda",
+    "nav-t-5":"Bloq",
+    "nav-t-6":"BİZİMLƏ ƏLAQƏ",
+    "nav-t-7":"Mod",
+
+
+    "home-sec-two-box-1-title":"Singlettrack Sürəti",
+    "home-sec-two-box-1-description":"TRANCE X ADVANCED E+ üçün 25% ENDİRİM",
+    "home-sec-two-box-2-title": "Trail Power",
+    "home-sec-two-box-2-description": "TRANCE X ADVANCED E++ üçün 25% ENDİRİM",
+    "home-sec-two-box-3-title": "Yol Velosipedləri",
+    "home-sec-two-box-3-description": "YENİ ÜSTLLƏR YAXŞI OLUNUB",
+    "home-sec-two-btn-1":"DAHA ƏTRAFLI",
+    "home-sec-two-btn-2":"DAHA ÇOX KƏŞF EDİN",
+    "home-sec-two-btn-3":"İNDİ MAĞAZA EDİN",
+
+
+    
+
+
+    "home-hero-one-title":"SİZİN SÜRÜŞÜNÜZ BURADA BAŞLAYIN",
+    "home-hero-one-description":"Obyektlərimiz və Xüsusiyyətlərimiz",
+
+
+    "home-sec-three-box-1-title":"Velosipedlərin Təmiri",
+    "home-sec-three-box-1-description":"Velosipedlərin Tecrübəli Və İxtisaslaşmış Texniklər Terəfindən Peşəkar Təmiri",
+    "home-sec-three-box-2-title":"Ehtiyyat Hissələri",
+    "home-sec-three-box-2-description":"Velosipedlərin Ən Keyfiyyətli Ehtiyyat Hissələri",
+    "home-sec-three-box-3-title":"Aksesuarlar",
+    "home-sec-three-box-3-description":"Velosipedlər Üçün Lazımli Aksesurlar",
+
+
+    "home-sec-four-box-1-title":"UŞAQ VELESİPRESİ",
+    "home-sec-four-box-1-description":"Onlarla məhsul üzrə qapalı qiymətlər",
+    "home-sec-four-box-2-title":"Aksesuarlar",
+    "home-sec-four-box-2-description":"Onlarla məhsul üzrə qapalı qiymətlər",
+    "home-sec-four-btn-1":"İNDİ MAĞAZA EDİN",
+    "home-sec-four-btn-2":"İNDİ MAĞAZA EDİN",
+
+
+
+    "home-sec-five-btn":"İNDİ AL",
+
+
+
+
+
+    "home-hero-two-title":"ONU KƏŞF ET",
+    "home-hero-two-description":"Eone-Sixty 700 ÜSTÜNLÜKLƏRİ",
+
+    "home-sec-6-title":"Eone-Sixty 700",
+    "home-sec-6-description":"İDMAN SÜRÜŞÜ VƏ YA SÜRƏTLİ ŞƏHİFƏ",
+    "home-sec-6-text-1":"Dayanıqlı yüksək polad çərçivə və çəngəl",
+    "home-sec-6-text-2":"Daha rahat velosiped sürmək",
+    "home-sec-6-text-3":"Yüksək performanslı təkər",
+    "home-sec-6-text-4":"Yaxşı sürmə təcrübəsi",
+    "home-sec-6-price":"$1195.00",
+    "home-sec-6-btn":"DAHA ÇOX KƏŞF EDİN",
+
+    "home-hero-three-title":"Velosipedimizi sınayın",
+    "home-hero-three-description":"Seçilmiş Məhsullar",
+
+
+    "home-section-seven-box-1-title":"Burada Məhsulun Başlığı",
+    "home-section-seven-box-1-price":"$49.99",
+    "home-section-seven-box-2-title":"Burada Məhsulun Başlığı",
+    "home-section-seven-box-2-price":"$49.99",
+    "home-section-seven-box-3-title":"Burada Məhsulun Başlığı",
+    "home-section-seven-box-3-price":"$49.99",
+    "home-section-seven-box-4-title":"Burada Məhsulun Başlığı",
+    "home-section-seven-box-4-price":"$49.99",
+    "home-section-seven-box-5-title":"Burada Məhsulun Başlığı",
+    "home-section-seven-box-5-price":"$49.99",
+    "home-section-seven-box-6-title":"Burada Məhsulun Başlığı",
+    "home-section-seven-box-6-price":"$49.99",
+    "home-section-seven-box-7-title":"Burada Məhsulun Başlığı",
+    "home-section-seven-box-7-price":"$49.99",
+    "home-section-seven-box-8-title":"Burada Məhsulun Başlığı",
+    "home-section-seven-box-8-price":"$49.99",
+    "home-section-seven-btn":"Sebete Əlavə et",
+
+
+
+
+
+
+    "product-hero":"MAĞAZA",
+
+
+    "product-sidebar-title-category":"Məhsul Kateqoriyaları",
+    "product-sidebar-description-one":"Bütün Məhsullar",
+    "product-sidebar-description-two":"Aksesuarlar",
+    "product-sidebar-description-three":"Velosipedlər",
+    "product-sidebar-description-four":"Çəkmələr",
+    "product-sidebar-description-five":"Geyim",
+    "product-sidebar-description-six":"Əlcəklər",
+    "product-sidebar-description-seven":"Dəbilqələr",
+    "product-sidebar-title-size":"Ölçülər",
+    "product-sidebar-bike-dropdown-one":"Dağ Velosipedləri",
+    "product-sidebar-bike-dropdown-two":"Uşaq Velosipedləri",
+    "product-sidebar-bike-dropdown-three":"Yol Velosipedləri",
+    "product-sidebar-aksesuar-dropdown-one":"Velosiped zəngləri",
+    "product-sidebar-aksesuar-dropdown-two":"Smartfon Qutusu",
+    "product-sidebar-aksesuar-dropdown-three":"Şüşə Qəfəslər",
+
+
+
+    "product-shop-1-title":"Dağ Velosipedi SCOTT GAMBLER 910 - 29",
+    "product-shop-2-title":"Smartfon Qutusu",
+    "product-shop-3-title":"Velosiped Zəngi",
+    "product-shop-4-title":"Roadbike Cannondale CAAD OPTIMO 4",
+    "product-shop-5-title":"Dəbilqə",
+    "product-shop-6-title":"Gödəkçə Assos Mille GT Winter EVO",
+    "product-shop-7-title":"Ayaqqabbı Shimano SH-MW7",
+    "product-shop-8-title":"Uşaq Velosipedi Puky LS-PRO 20-7 Alu - 20",
+    "product-shop-9-title":"Su Qabı",
+    "product-shop-10-title":"Dağ Velosipedi Specialized STUMPJUMPER EVO ELITE ALLOY - 29",
+    "product-shop-11-title":"Əlcək GOREWEAR C5 GORE-TEX",
+    "product-shop-12-title":"Su Qabı",
+
+
+
+    "about-hero":"BİZİM HAQQIMIZDA",
+
+
+
+    "about-sec-2-title":"BİZ KİMİK",
+    "about-sec-2-description":"Ən Yaxşı Velosiped Təcrübəsi",
+    "about-sec-2-text":"ABŞ-a pulsuz çatdırılma və bütün dünya üzrə ucuz çatdırılma ilə dağ velosipedi hissələri və aksesuarlarının böyük seçimimizdən alış-veriş edin və alın.",
+    "about-sec-2-btn":"BİZİMLƏ ƏLAQƏ SAXLAYIN",
+
+
+    "about-hero-one-title":"SİZİN SÜRÜŞÜNÜZ BURADA BAŞLAYIN.",
+    "about-hero-one-description":"Obyektlərimiz və Xüsusiyyətlərimiz",
+
+
+
+    "add-to-cart-hero-title":"Alış-veriş kartı",
+    "add-to-cart-hero-description":"Əlavə Etdiyiniz Məhsullarla Taniş olun",
+    "add-to-cart-right-title":"Təstiqləmə bölməsi",
+    "add-to-cart-right-description":"Cəmi",
+    "add-to-cart-right-text":"Ümumi",
+    "add-to-cart-right-btn":"Təstiqlə",
+
+
+    "dashboard-number":"Say",
+    "dashboard-photo":"Şəkil",
+    "dashboard-name":"Ad",
+    "dashboard-information":"İnformasiya",
+    "dashboard-change":"Dəyiş",
+
+
+
+    "about-sec-3-box-1-title":"Tam Təmir",
+    "about-sec-3-box-1-description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+    "about-sec-3-box-2-title":"Xüsusi Hissələr və Aksesuarlar",
+    "about-sec-3-box-2-description":"Xəstəyə qulluq etmək vacibdir, xəstə izlənəcək, amma eyni zamanda edəcəmr",
+    "about-sec-3-box-3-title":"Velosipedlərin quraşdırılması və çatdırılması",
+    "about-sec-3-box-3-description":"Bu, heç bir zəhmət tələb etmədiyi halda, heç bir problem yaratmır",
+
+
+
+    "about-sec-4-title":"BİZİM HEKAYƏMİZ",
+    "about-sec-4-description":"Təvazökar bir başlanğıc",
+    "about-sec-4-textone":"Bu Kettle Moraine bölgəsinin təpələri və vadiləri ilə gözəl bir gəzintidir. Düşünmürəm ki, mən heç vaxt velosipedimi bir yarıqda on mildən çox sürmüşəm və indi bir gündə yetmiş mil sürmək niyyətindəyik.",
+    "about-sec-4-texttwo":"Bu Kettle Moraine bölgəsinin təpələri və vadiləri ilə gözəl bir gəzintidir. Düşünmürəm ki, mən heç vaxt velosipedimi bir yarıqda on mildən çox sürmüşəm və indi bir gündə yetmiş mil sürmək niyyətindəyik.",
+
+
+
+    "about-sec-5-box-1-title":"Müştəri xidməti",
+    "about-sec-5-box-1-description":"Sifarişinizə, hesabınıza, göndərmə məlumatınıza, geri qaytarma və mübadilələrə necə daxil olmaq olar.",
+    "about-sec-5-box-1-btn":"DAHA ƏTRAFLI",
+
+    "about-sec-5-box-2-title":"Məhsul Dəstəyi",
+    "about-sec-5-box-2-description":"Hansı velosipedin sizin üçün uyğun olduğunu, ölçüləri, qiymətli məlumatı və mövcud resursları öyrənin.",
+    "about-sec-5-box-2-btn":"DAHA ƏTRAFLI",
+
+    "about-sec-5-box-3-title":"20% ENDİRİM EDİN",
+    "about-sec-5-box-3-description":"TAM QİYMƏTLİ BİR ƏŞYA",
+    "about-sec-5-box-3-text":"İl Sonu Tətil Alış-verişi üçün Sprint20 Kodunu istifadə edin",
+    "about-sec-5-box-3-btn":"ƏTRAFLI BAXIN",
+
+
+
+
+    "contact-hero":"ƏLAQƏ",
+    "contact-title":"BİZİ TANIYIN",
+    "contact-text-one-1":"Fikrinizdə bir layihə varmı?",
+    "contact-text-one-2":"Gəl danışaq.",
+    "contact-text-two-1":"Heç bir hava yolu kütləsi olmadan yola qayıtmağın vaxtı gəldi. Kurs ",
+    "contact-text-two-2":"yatağı bəzəmək üçün tincidunt dui çirkin kütləsi.",
+    "contact-text-three":"E-poçt",
+    "contact-text-four":"Dəstək poçtu:",
+    "contact-text-five":"Ümumi E-poçt:",
+    "contact-text-six":"Qərargah",
+    "contact-text-seven":"Amerika Birləşmiş Ştatları",
+    "contact-text-eight":"MÜŞTƏRİ XİDMƏT SAATLARI",
+    "contact-text-nine":"Açıq",
+    "contact-text-ten":"Bağlı",
+    "contact-text-eleven":"Şənbə",
+    "contact-text-twelve":"Bazar günü",
+    "contact-text-thirteen":"Bağlı",
+    "contact-text-fourteen":"İZLƏYİN:",
+
+
+
+    "contact-bottom-one":"Bizə Mesaj Göndərin",
+    "contact-bottom-two":"Hər hansı bir sualınız varsa və ya daha çox məlumata ehtiyacınız varsa, bizə mesaj göndərmək üçün aşağıdakı formadan istifadə edin.",
+    "contact-bottom-three":"Məni yoxlayın",
+    "contact-bottom-btn":"TƏQDİM",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "footer-top-box-one-title":"KÖMƏK LAZIMDIR?",
+    "footer-top-box-one-description":"Bizim xüsusi komandamız kömək etmək üçün buradadır.",
+    "footer-top-box-one-btn":"İNDİ SOHBET EDİN",
+
+    "footer-top-box-two-title":"BİZƏ ZƏNG EDİN",
+    "footer-top-box-two-description":"Ehtiyaclarınız barədə 24/7 komandamızla danışın.",
+
+    "footer-top-box-three-title":"BİZƏ ABUNƏ OLUN",
+    "footer-top-box-three-description":"Satışlar və yeni avadanlıqlar haqqında məlumat əldə edin!",
+    "footer-top-box-three-btn":"ABUNƏ OLUN",
+
+
+
+
+    "footer-bottom-box-one-title":"FAYDALI LİNKLƏR",
+    "footer-bottom-box-one-text-one":"Hüquq və Məxfilik",
+    "footer-bottom-box-one-text-two":"Əlaqə",
+    "footer-bottom-box-one-text-three":"Hədiyyə Kartı",
+    "footer-bottom-box-one-text-four":"Müştəri xidməti",
+    "footer-bottom-box-one-text-five":"Mənim Hesabım",
+    "footer-bottom-box-one-text-six":"Mağaza tapın",
+    
+    
+    "footer-bottom-box-two-title":"Mənim Hesabım",
+    "footer-bottom-box-two-text-one":"Mənim Hesabım",
+    "footer-bottom-box-two-text-two":"Sifariş Tarixçəm",
+    "footer-bottom-box-two-text-three":"İstək Siyahım",
+    "footer-bottom-box-two-text-four":"Sifariş İzləmə",
+    "footer-bottom-box-two-text-five":"Alış-veriş kartı",
+
+
+
+    "footer-bottom-box-three-title":"ŞİRKƏT",
+    "footer-bottom-box-three-text-one":"Bizim haqqımızda",
+    "footer-bottom-box-three-text-two":"Karyera",
+    "footer-bottom-box-three-text-three":"Bloq",
+    "footer-bottom-box-three-text-four":"Tərəfdaş",
+    "footer-bottom-box-three-text-five":"Bizimlə əlaqə saxlayın",
+
+
+
+    "footer-bottom-box-four-title":"MAĞAZA",
+    "footer-bottom-box-four-text-one":"Televizorlar",
+    "footer-bottom-box-four-text-two":"Soyuducular",
+    "footer-bottom-box-four-text-three":"Paltaryuyan maşınlar",
+    "footer-bottom-box-four-text-four":"Azarkeşlər",
+    "footer-bottom-box-four-text-five":"Kondisioner",
+    "footer-bottom-box-four-text-six":"Noutbuklar",
+
+
+
+
+    "footer-right":"BİZİMLE ƏLAQƏ EDİN",
+
+
+    "footer-end-left-two":"Bütün hüquqlar qorunur.",
+
+    
+
+    "footer-end-right-one":"Şamil",
+    "footer-end-right-two":"Abasov",
+    "footer-end-right-three":"Tərəfindən Hazırlanmışdır."
+
+}
